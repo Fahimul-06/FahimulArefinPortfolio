@@ -17,7 +17,7 @@ const About: React.FC = () => {
             alt="Professional portrait" 
             className="w-full h-auto"
           />
-          <div className="absolute inset-90 bg-gradient-to-t from-black/30 to-transparent flex items-end">
+          <div className="absolute inset-95 bg-gradient-to-t from-black/30 to-transparent flex items-end">
             <div className="p-6 text-white">
               <h3 className="text-2xl font-bold">Fahimul Arefin</h3>
               <p className="text-lg opacity-90">Fullstack Developer</p>
